@@ -1,0 +1,16 @@
+- Algunas Variables 'se' muestran poca relevancia
+- Modelo desbalanceado: M < B
+- Dispersion superpuesta:
+		- smoothness_mean
+		- symmetry_mean
+		- fractal_dimension_mean
+		- texture_mean
+		- symetry_worst
+		- fractal_dimension_worst
+
+
+
+
+
+recomendaciones:
+- usar lazo para dar menos importancia a ciertas variables 
